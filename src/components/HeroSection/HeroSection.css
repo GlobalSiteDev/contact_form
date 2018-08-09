@@ -1,0 +1,11 @@
+.HeroSection {
+  width: 100%;
+  max-width: 1440px;
+  min-width: 970px;
+  height: 510px;
+  background: #1c2534 url('../../assets/images/HeroImage.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  position: relative;
+}

@@ -1,0 +1,16 @@
+.Logo {
+  width: 130px;
+  height: 40px;
+  margin: 40px 0 0 50px;
+  float: left;
+  background: url('../../assets/images/Logo.png') 0 0 no-repeat;
+}
+
+@media  /* For Retina screens */
+screen and (-webkit-min-device-pixel-ratio: 1.5),
+screen and (-moz-min-device-pixel-ratio: 1.5),
+screen and (min-device-pixel-ratio: 1.5) {
+	.Logo {
+		background-image: url('../../assets/images/Logo@2x.png') 0 0 no-repeat;
+	}
+}
