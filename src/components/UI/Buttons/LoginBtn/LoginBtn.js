@@ -1,9 +1,9 @@
 import React from 'react';
 
-import './LoginBtn.css';
+import classes from './LoginBtn.css';
 
 const loginBtn = () => (
-  <button className="LoginBtn">Log In Now</button>
+  <button className={classes.LoginBtn + ' ' + classes.Clearfix}>Log In Now</button>
 );
 
 export default loginBtn;

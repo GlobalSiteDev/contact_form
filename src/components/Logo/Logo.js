@@ -1,9 +1,9 @@
 import React from 'react';
 
-import './Logo.css';
+import classes from './Logo.css';
 
 const logo = () => (
-    <div className="Logo"></div>
+    <div className={classes.Logo}></div>
 );
 
 export default logo;

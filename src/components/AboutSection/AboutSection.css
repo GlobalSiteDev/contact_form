@@ -1,0 +1,38 @@
+.AboutSectionContainer {
+  height: 275px;
+  border-bottom: 1px solid #e0e2e6;
+}
+
+.AboutSectionContainer h2 {
+  font-family: 'Proxima Nova Light';
+  font-size: 30px;
+  font-weight: 300;
+  text-align: center;
+  margin-top: 92px;
+}
+
+.AboutTextLeft {
+  width: 40.069%;
+  height: 86px;
+  margin: 35px 104px 112px 79px;
+  float: left;
+  color: #7c8695;
+  font-family: 'Proxima Nova Light';
+  font-weight: 300;
+  line-height: 24px;
+}
+
+.AboutTextRight {
+  width: 41.5%;
+  height: 92px;
+  margin: 35px 82px 112px 0;
+  float: right;
+  color: #7c8695;
+  font-family: 'Proxima Nova Light';
+  font-weight: 300;
+  line-height: 24px;
+}
+
+.Clearfix {
+  overflow: auto;
+}

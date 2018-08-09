@@ -10,3 +10,7 @@
   background-color: #87b448;
   float: right;
 }
+
+.Clearfix {
+  overflow: auto;
+}
