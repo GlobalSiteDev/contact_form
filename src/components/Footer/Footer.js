@@ -7,7 +7,7 @@ const footer = (props) => (
     <p>Denteez Copyright 2015</p>
     <a href={props.linkSupport}>Support</a>
     <a href={props.linkPrivacy}>Privacy Policy</a>
-    <a href={props.linkTerms}>Terms of use</a>
+    <a href={props.linkTerms}>Terms</a>
   </footer>
 );
 
