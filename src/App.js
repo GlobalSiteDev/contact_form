@@ -9,7 +9,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <HeroSection />
+        
         <div className={classes.BgSection}></div>
         <About />
         <Footer linkSupport="/" linkPrivacy="/" linkTerms="/" />
